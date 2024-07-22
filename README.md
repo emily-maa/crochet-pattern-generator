@@ -23,7 +23,7 @@ To install the required libraries, run:
 
 ```bash
 pip install Pillow numpy
-
+```
 ## Command Line Arguments
 
 The script requires the following command-line arguments:
